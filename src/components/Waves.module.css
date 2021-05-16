@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+.wave_container {
+  position: relative;
+
+  background: linear-gradient(
+    191deg,
+    rgba(90, 160, 250, 1) 0%,
+    rgba(110, 64, 195, 1) 70%
+  );
+  color: rgb(255, 255, 255);
+  text-align: center;
+  overflow: hidden;
+}
